@@ -1,5 +1,7 @@
 # XM Measure
 
+![](http://ued.xiongmaojinku.com/img/site-logo.png)
+
 ## Changelog
 
 原插件是导出html格式仓库，每次导出都会重新生成js和css文件，体积庞大并不易于维护
